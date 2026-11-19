@@ -1,0 +1,23 @@
+# --- secrets: NEVER commit these (your bulb's local key / cloud credentials) ---
+devices.json
+tuya-raw.json
+snapshot.json
+tinytuya.json
+
+# --- your personal data ---
+# your settings (bulb IP, preset, tweaks)
+config.json
+# songs the app has learned from your library
+tracks/
+
+# --- Python / environment ---
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+
+# --- logs and editor junk ---
+*.log
+.vscode/
+.idea/
+.DS_Store

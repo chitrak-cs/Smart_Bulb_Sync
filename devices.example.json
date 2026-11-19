@@ -1,0 +1,10 @@
+[
+  {
+    "name": "My bulb",
+    "id": "REPLACE_WITH_DEVICE_ID",
+    "key": "REPLACE_WITH_LOCAL_KEY",
+    "mac": "aa:bb:cc:dd:ee:ff",
+    "category": "dj",
+    "product_name": "Smart Bulb"
+  }
+]
